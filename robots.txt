@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lehiplumbingco.com/sitemap.xml
